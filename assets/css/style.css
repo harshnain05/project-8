@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -46,6 +47,7 @@ section {
 }
 
 .be_sure {
+    font-family: "DM Sans", sans-serif;
     font-size: 16px;
     line-height: 26px;
     text-align: left;
@@ -61,6 +63,7 @@ section {
 }
 
 .abt {
+    font-family: "DM Sans", sans-serif;
     line-height: 155%;
 
     color: #1E0E62;
@@ -77,6 +80,7 @@ section {
     display: flex;
     flex-direction: column;
     line-height: 26px;
+    font-family: "DM Sans", sans-serif;
     color: #1E0E62;
 
 }
@@ -85,6 +89,7 @@ section {
     line-height: 155%;
     font-size: 24px;
     color: #1E0E62;
+    font-family: "DM Sans", sans-serif;
 }
 
 .p2 {
@@ -92,13 +97,14 @@ section {
     flex-direction: column;
     line-height: 26px;
     color: #1E0E62;
+    font-family: "DM Sans", sans-serif;
 
 }
 
 .subs {
     line-height: 155%;
     padding: 10px;
-}
+    font-family: "DM Sans", sans-serif;}
 
 .email {
     border: 2px solid #EBEAED;
@@ -147,6 +153,7 @@ margin-top: 15%;
 .bottom{
    border-top: 2px solid #f5f5f6;
    text-align: center;
+   font-family: "DM Sans", sans-serif;
    align-items: center;
    width: 1168px;
    height: 67px;
